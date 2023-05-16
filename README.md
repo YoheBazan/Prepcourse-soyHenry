@@ -1,2 +1,1 @@
-# Prepcourse-soyHenry
-Repositorio de prueba, modulo 2
+Este proyecto es una prueba
